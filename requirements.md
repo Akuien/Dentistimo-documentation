@@ -1,5 +1,6 @@
-## Requirements
+# Software Requirement Specification (SRS)
 
+## Functional Requirements (FR)
 <table>
     <thead>
         <tr>
@@ -198,3 +199,11 @@
         </tr>
     </tbody>
 </table>
+
+## Non-Functional Requirements (NFR)
+
+
+
+
+
+## Constraints
