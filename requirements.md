@@ -168,19 +168,19 @@
 </table>
 
 ## Non-Functional Requirements (NFR)
-
-# 1. Usability
+ 
+ 1. Usability
   1.1 The system must be easy to use. 98% of users should be able to use the system with ease.
   1.2 95% of users shall be able to book an appointment in one minute.
   1.3 The error rate of users booking an appointment must not exceed 5 percent.
 
-# 2. Security 
+ 2. Security 
   2.1 The system shall keep the users information confidential and secure
 
-# 3. Portability
+ 3. Portability
   3.1 The system should be able to run on all device platforms without any change in its behaviour and performance.
 
-# 4. Scalability
+ 4. Scalability
 The system must be able to support many user visits at the same time while maintaining optimal performance.
 
 ## Constraints
