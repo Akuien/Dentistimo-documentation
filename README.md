@@ -3,15 +3,11 @@
 ## Table of Contents
 
 - Purpose 
-    - [Team Members]
-    - [Team Resources](#team-resources)
-- [Software Requirement Specification (SRS)]
+- Team Members
+- Team Resources]
+- Software Requirement Specification (SRS)
 - Software Architecture Document (SAD)
 - Program Management Report (PMR)
-
-
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
 
 ## Purpose
 The purpose of this system is to allow the residents of Gothenburg to book a dentist appointments with ease. 
@@ -20,16 +16,18 @@ The purpose of this system is to allow the residents of Gothenburg to book a den
 Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
 
 ## Team Members
-Akuen Akoi Deng 
-Cynthia Tarwireyi
-Jonna Johansson
-Kanokwan Haesatith
-Marwa Selwaye
-Nazli Moghaddam
-Sergey Balan
+
+- Akuen Akoi Deng 
+- Cynthia Tarwireyi
+- Jonna Johansson
+- Kanokwan Haesatith
+- Marwa Selwaye
+- Nazli Moghaddam
+- Sergey Balan
 
 ## Team Resources
-Trello board
+
+- Trello board
 
 
 ## Software Requirement Specification (SRS)
@@ -44,10 +42,10 @@ link to SRS
 
 # Design Decisions
 
-Separation of concerns(SoC):
+- Separation of concerns(SoC):
 The team decided based on the requirements given in the guideline, that our system
- is to be composed of  more than 4 components, where each component
- is separate and independent from the other components, making each component a 
+is to be composed of  more than 4 components, where each component
+is separate and independent from the other components, making each component a 
 separate working repository. This way we can accomplish the separation of concerns 
 and the single responsibility by separating the application into distinct sub-units, 
 so each sub-unit addresses a separate concern, and by that achieving a minimal coupling
@@ -57,12 +55,12 @@ between the different components.
 ## Components
 
 # the system consists of 6 components: 
-User Interface
-User Hanlder
-Dentistry Handler
-Timeslot Creator
-Availability checker
-Appointment Handler
+- User Interface
+- User Hanlder
+- Dentistry Handler
+- Timeslot Creator
+- Availability checker
+- Appointment Handler
 
 ## Program Management Report (PMR):
 
