@@ -1,17 +1,17 @@
 # T-5-Documentation
 
 ## Table of Contents
-##### - Description 
-##### - Components
-##### - Architecture Styles
-##### - Design Decisions
-##### - Architecture Drivers
-##### - Sub-documents
-##### - Software Architecture Document (SAD)
-##### - Program Management Report (PMR)
-##### - Team Members
-##### - Team Resources
-##### - Software Technologies
+- Description 
+- Components
+- Architecture Styles
+- Design Decisions
+- Architecture Drivers
+- Sub-documents
+- Software Architecture Document (SAD)
+- Program Management Report (PMR)
+- Team Members
+- Team Resources
+- Software Technologies
 
 
 ## Description
