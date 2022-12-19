@@ -56,7 +56,10 @@
         </tr>
          <tr>
             <td>FR5</td>
-            <td>The system shall allow users to view available time slots.</td>
+            <td>The system shall allow users to view available time slots.
+            * The appointments are 30 minutes long
+            * The dentist has 1 hour lunch break and 30 minutes Fika break.
+            </td>
             <td>
                 <ul>
                     <li>
@@ -131,6 +134,22 @@
                 </ul>
             </td>
         </tr>
+        <tr>
+            <td>FR12</td>
+            <td>The system shall use publish subscribe architecture.</td>
+            </tr>
+            <tr>
+            <td>FR13</td>
+            <td>The system shall use pipe and filter architecture.</td>
+            </tr>
+            <tr>
+            <td>FR14</td>
+            <td>The system shall be divided into 5 different subsystems</td>
+            </tr>
+            <tr>
+            <td>FR15</td>
+            <td>The system shall use middleware based on the MQTT-protocol.</td>
+            </tr>
     </tbody>
 </table>
 
