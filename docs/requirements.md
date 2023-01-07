@@ -57,8 +57,8 @@
          <tr>
             <td>FR5</td>
             <td>The system shall allow users to view available time slots.
-            * The appointments are 30 minutes long
-            * The dentist has 1 hour lunch break and 30 minutes Fika break.
+            The appointments are 30 minutes long
+            The dentist has 1 hour lunch break and 30 minutes Fika break.
             </td>
             <td>
                 <ul>
