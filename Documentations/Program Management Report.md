@@ -4,6 +4,7 @@ All of this can be seen on Trello : [https://trello.com/b/FrFZpB43/dit-356-2022-
 |  start| end |
 |--|-- |
  | 7/11/2022 |18/11/2022 |
+
 The sprint is planned to be two weeks long. After each week, we will have a weekly update to see the progress before going to the next week. We also plan on having daily scrum meetings at 18:00 to check on individual progress and possible challenges on days that we do not have team meetings.
  
 | Tasks                                    | Priority | Task Description                                                                                        | Estimated hours |
@@ -88,6 +89,7 @@ The sprint is planned to be two weeks long. After each week, we will have a week
 |  start| end |
 |--|-- |
  | 5/12/2022 |16/12/2022 |
+ 
 The sprint is planned to be two weeks long. After each week, we will have a weekly update to see the progress before going to the next week. We also plan on having daily scrum meetings at 17:30 to check on individual progress and possible challenges on days that we do not have team meetings.
 |                      Tasks                      | Priority |                               Description                               | Estimated hours |
 |-----------------------------------------------|:--------:|-----------------------------------------------------------------------|:---------------:|
