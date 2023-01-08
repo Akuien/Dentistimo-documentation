@@ -1,4 +1,3 @@
-
 ## Team Agreement
 
 ### Team mission:
@@ -94,13 +93,13 @@ signing this contract, we agree to work towards and uphold such an environment. 
 
 team leadership should be a joint effort from all team members.
 
-**Aims**
+### Aims
 
 ● The course.
 
 ● Grade: 5.
 
-**Holidays**
+### Holidays
 
 ● Christmas and New Year.
 
@@ -110,7 +109,7 @@ nobody is expected to work and this time should not be compensated for during
 
 working weeks.
 
-**Conflicts**
+### Conflicts
 
 ● How to handle them.
 
