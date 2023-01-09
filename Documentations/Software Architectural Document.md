@@ -89,13 +89,11 @@ Moreover, ***reliability*** is an important architectural driver because it is c
 
  - Modifiability and Maintainability:
 
-The system should be receptive to change. We do this by using different subunits to do specific tasks which will
+The system should be receptive to change. We do this by using different subunits to do specific tasks which will make it easy for us to modify and maintain the system to for example meet new requirements without affecting the system as a whole as they will be limited in scope.
 
-make it easy for us to modify and maintain the system to for example meet new requirements without affecting
+- Interoperability:  
 
-the system as a whole as they will be limited in scope.
-
-Interoperability:  Interoperability is an ability of one system to interact with another system. Because we have a distributed system, different components need to communicate and exchange information with one another. We achieve this by using a MQTT broker.
+Interoperability is an ability of one system to interact with another system. Because we have a distributed system, different components need to communicate and exchange information with one another. We achieve this by using a MQTT broker.
 
  - Fault tolerance:
 
