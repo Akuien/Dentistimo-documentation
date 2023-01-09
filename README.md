@@ -94,16 +94,12 @@ Considering we will have several components communicating with each other, and a
 
 
 ## Sub-documents
-- [Software Requirement Specification (SRS)](https://git.chalmers.se/courses/dit355/dit356-2022/t-5/t-5-documentation/-/blob/main/docs/requirements.md)
-- 
 
+- [Purpose](https://git.chalmers.se/courses/dit355/dit356-2022/t-5/t-5-documentation/-/blob/main/Documentations/Purpose.md)
+- [Project Management Report (PMR)](https://git.chalmers.se/courses/dit355/dit356-2022/t-5/t-5-documentation/-/blob/main/Documentations/Program%20Management%20Report.md)
+- [Software Requirement Specification (SRS)](https://git.chalmers.se/courses/dit355/dit356-2022/t-5/t-5-documentation/-/blob/main/Documentations/Software%20Requirement%20Specification.md)
+- [Software Architecture Document (SAD)](https://git.chalmers.se/courses/dit355/dit356-2022/t-5/t-5-documentation/-/blob/main/Documentations/Software%20Architectural%20Document.md)
 
-## Software Architecture Document (SAD)
-
-
-## Program Management Report (PMR):
-
-Link to PMR
 
 
 ## Team Members
