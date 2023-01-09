@@ -197,3 +197,112 @@ Each sprint is planned to be two weeks long. After every week, we will have a we
 | Week 7 | No major changes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Week 8 | Timeslots change: We are not using the generated time slots from the timeslot generator component anymore, and using hard coded time slots instead where the user can select based on the opening times of each clinic, and be prevented from making an appointment out of the opening and closing times. The reason for the change was that there were bugs on the front end that caused some issues.  Moved availability checker from the timeslots generator component to booking handler.                                                                                                                                                                                                                                                               |
 
+## Project management practices used during the development process
+
+To make our project consistent with agile practices, we tried to follow all the agile project management practices and phases. These practices and phases were done and implemented over the different sprints we had during the development of the project starting from sprint one to four. These phases involved project planning, elaboration and project construction/implementation phase. All are elaborated and described further below. 
+
+**1.  Project planning/Inception phase**
+    
+
+During this part of the agile practice, we took time to make plans on the project; the tools and technologies we were going to use, the communication means, assigning team members with different roles and responsibilities and also decisions concerning the project implementation.
+
+To actualize these things, we drew a [team contract and agreement](https://docs.google.com/document/d/1TV__3F4iAxFeXiiyypLPCVCRJQ910vjezVbvgp2Kr5g/edit) to act as a point of reference as we worked on the project later on. We also set up the tools and technologies decided upon and lastly documented the [project proposal](https://docs.google.com/document/d/1bKyFMJI-BU9DHj2VMGdoc-TIq0MAsdkRlbpeAhV9xq4/edit) based on the description and requirements provided by the product owner.
+
+Since transparency is one of the most significant characteristics that makes project agile teams perform better, we put that into consideration when planning for the project. We considered multiple factors that could lead to a better transparency for all team members, like getting notified on every change on the trello board, on gitlab repos, our docs are shared and include all latest updates on each task in every sprint backlog. Those actions helped all team members be on the same page of how the project is processing and have visibility into the big picture of the project.
+
+  
+
+**2.  Project elaboration phase**
+    
+
+This phase mostly involved the designing and modeling of the proposed system. We came up with the [system requirements](https://docs.google.com/document/d/1jOVEwfz0SPGKZOQC_dQp3wa6PZpzPpl_1GxAO7iYuqo/edit) of the system, architectural requirements, [user stories](https://docs.google.com/document/d/1FKB84jf6prODfqYHYSRRvSg3nYoLjHFpjEFsFCoNhfg/edit), architecture choice, design and justification, system functional decomposition diagram, the components diagram and the system architecture diagram.
+
+*User stories:*
+For agile development, we came up with the systems’ user stories based on the systems’ requirements we gathered. These user stories helped us the developers to understand the system, develop the system iteratively and incrementally and also in a coherent and consistent way. The user stories we uniquely number ID and tasks were created out of them and added to the product backlog helping in our scrum process.
+
+  
+  
+
+**3.  Project Construction/Agile development**
+    
+On this part of the project, in order to adhere with agile best practices for the project management, we used scrum methodology with four sprints each led by sprint planning, sprint review and retrospective to help us monitor and control the project all through the process of implementation and also keep track on all decisions made on the progress, the project, the scope and the requirements.
+
+  
+
+*Sprint planning*
+
+> To keep track of the progress, fulfill an iterative development of the
+> project we had sprint plannings at the beginning of each sprint to
+> assign the tasks to members and keep track of what was being done and
+> delivered. Each sprint was two weeks long accompanied by the daily
+> scrum stand up meetings and weekly update of deliverables and tasks.
+
+  
+
+*Continuous Integration and Delivery*
+
+> CI/CD automates the building and testing of our software and by the
+> continuous deployment which is an extension of this automation, it
+> allows our system to be deployed after every code commit that has
+> passed our tests and helped us ensure the quality of the code and
+> minimize the risk of errors.
+> 
+> Stages used in our components pipelines: Build stage: which includes
+> compile code and docker build phases. Build stage automates developer
+> contributions and provides tools to standardize our software quality
+> and environments.
+
+  
+
+*Incremental delivery*
+
+> Each sprint we used our user stories and requirements as guidelines
+> for what we wanted to implement during the upcoming sprint. We chose
+> our most important user stories and made them into tasks. Bigger tasks
+> were divided into subtasks which we wrote as a checklist on our Trello
+> board cards to easier keep track of what needed to be implemented, and
+> the tasks were later assigned to different team members. We planned
+> for each feature to be delivered and integrated into the system at the
+> latest at the end of the sprint. However, most of the time we had to
+> prioritize certain tasks and deliver them as fast as possible to avoid
+> problems with dependencies between different tasks.
+
+  
+  
+
+*Project Documentation*
+
+> For the project documentation, we had a project google drive where all
+> the meetings, plans and decisions of the project were recorded and
+> kept and accessed by all team members. All tasks and practices were
+> recorded ranging from the team agreement, sprint plans and
+> reviews/retrospective and weekly updates.
+> 
+> We applied an agile approach in documenting tasks status through;
+> Continuous result delivery  updates  and sharing tasks status and
+> insights with the team to ensure consistent continuous feedback and
+> allowing for problems to be sifted out as soon as they arise. The
+> assessment of the project’s progress against the project plan, and if
+> the project is ahead or behind schedule and that is done by ensuring
+> the proper documentation of each task status in each sprint report,
+> and adding key informations, such as:
+> 
+> -   Works that has been completed (status: done/undone)
+>     
+> -   Estimated time for completion and actual time it takes to complete
+>     
+> -   Priority for each task(High, medium, low)
+
+    
+
+  
+  
+
+*Understanding all risks ( Risk Analysis )*
+
+> To prepare for the unknown and help us monitor and control hence
+> manage the project well, we consistently carried out our risk analysis
+> to identify potential risks like falling behind the schedule ,
+> spending too much time on a challenge and team members falling behind
+> or sick and unable to do their tasks. This helped us ensure delivery
+> on time.
