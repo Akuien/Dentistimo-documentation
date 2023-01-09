@@ -39,7 +39,6 @@ Dentistimo is a distributed system made of 5 components. The system's components
 - Kanokwan Haesatith
 - Marwa Selwaye
 - Nazli Moghaddam
-- Sergey Balan
 
 ## Team Resources
 
