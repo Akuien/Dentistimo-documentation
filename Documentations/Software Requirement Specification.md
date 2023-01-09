@@ -293,8 +293,6 @@
             </td>
             </tr>
             <tr>
-
-    </tbody>
 </table>
 
 ## Non-Functional Requirements (NFR)
