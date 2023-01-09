@@ -1,11 +1,13 @@
 # Sprint Reports
 All of this can be seen on Trello : [https://trello.com/b/FrFZpB43/dit-356-2022-team-5](https://trello.com/b/FrFZpB43/dit-356-2022-team-5)
+Each sprint is planned to be two weeks long. After every week, we will have a weekly update to see the progress before going to the next week. We also plan on having daily scrum meetings at 18:00 to check on individual progress and possible challenges on days that we do not have team meetings.
+
 ## SPRINT 1 REPORT
 |  start| end |
 |--|-- |
  | 7/11/2022 |18/11/2022 |
 
-The sprint is planned to be two weeks long. After each week, we will have a weekly update to see the progress before going to the next week. We also plan on having daily scrum meetings at 18:00 to check on individual progress and possible challenges on days that we do not have team meetings.
+
  
 | Tasks                                    | Priority | Task Description                                                                                        | Estimated hours |
 |------------------------------------------|----------|---------------------------------------------------------------------------------------------------------|-----------------|
@@ -51,7 +53,8 @@ The sprint is planned to be two weeks long. After each week, we will have a week
 |--|-- |
  | 21/11/2022 |2/12/2022 |
  
-The sprint is planned to be two weeks long. After each week, we will have a weekly update to see the progress before going to the next week. We also plan on having daily scrum meetings at 17:30 to check on individual progress and possible challenges on days that we do not have team meetings.
+
+
 |                      Tasks                      | Priority |                                       Description                                      | Estimated hours |
 |-----------------------------------------------|:--------:|--------------------------------------------------------------------------------------|:---------------:|
 | Sprint 2 planning                               |   High   | Plan and document sprint 2                                                             |        2        |
@@ -90,7 +93,8 @@ The sprint is planned to be two weeks long. After each week, we will have a week
 |--|-- |
  | 5/12/2022 |16/12/2022 |
  
-The sprint is planned to be two weeks long. After each week, we will have a weekly update to see the progress before going to the next week. We also plan on having daily scrum meetings at 17:30 to check on individual progress and possible challenges on days that we do not have team meetings.
+
+
 |                      Tasks                      | Priority |                               Description                               | Estimated hours |
 |-----------------------------------------------|:--------:|-----------------------------------------------------------------------|:---------------:|
 | Sprint 3 planning                               | High     | Plan and document sprint 3                                              | 1h              |
@@ -142,7 +146,7 @@ The sprint is planned to be two weeks long. After each week, we will have a week
  | 19/12/2022 |30/12/2022 |
 
 
-The sprint is planned to be two weeks long. After each week, we will have a weekly update to see the progress before going to the next week. We also plan on having daily scrum meetings at 17:30 to check on individual progress and possible challenges on days that we do not have team meetings.
+
 |                             Tasks                             | Priority  | Estimated time | Actual time |
 |-------------------------------------------------------------|:---------:|:--------------:|:-----------:|
 |                       Sprint 4 planning                       |    High   |       1h       |     30m     |
