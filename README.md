@@ -7,8 +7,6 @@
 - Design Decisions
 - Architecture Drivers
 - Sub-documents
-- Software Architecture Document (SAD)
-- Program Management Report (PMR)
 - Team Members
 - Team Resources
 - Software Technologies
@@ -21,10 +19,10 @@ Dentistimo is a distributed system made of 5 components. The system's components
 
 ## Components:
 - [User interface](https://git.chalmers.se/courses/dit355/dit356-2022/t-5/t-5-userinterface):This component allows users to interact with the system.
-- [Timeslot Generator ](https://git.chalmers.se/courses/dit355/dit356-2022/t-5/t-5-timeslotgenerator):This component is responsible for creating time slots for the dentistry based on its opening hours and availability.
 - [Booking Handler ](https://git.chalmers.se/courses/dit355/dit356-2022/t-5/bookinghandler):When a user makes a valid appointment,  this component creates the new booking and stores it in the database.
 - [Dentistry Handler ](https://git.chalmers.se/courses/dit355/dit356-2022/t-5/t-5-dentisthandler):Responsible for fetching dentist data from dentistry Json file and publishing the data to the frontend map for the user to see the dentists in Gothenburg.
 - [User Handler ](https://git.chalmers.se/courses/dit355/dit356-2022/t-5/t-5-userhandler):Responsible for fetching user data from the database and publishing the data to the frontend for the user to see their personal information and update it if needed.
+- [Timeslot Generator ](https://git.chalmers.se/courses/dit355/dit356-2022/t-5/t-5-timeslotgenerator):This component is responsible for creating time slots for the dentistry based on its opening hours and availability.
 
 ## Architecture Styles
 - **publish and subscribe:**
