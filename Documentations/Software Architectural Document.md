@@ -52,7 +52,7 @@ The components of the business logic are independent thereby achieving a minimal
 One of the important aspects we considered when choosing which technologies to use for implementation was familiarity. Even though there are other technologies that might better suit the system. We chose to work with technologies that we have all used before and are comfortable with. Since the system has to be delivered by a certain date, we did not feel that we had the time to properly research and learn new technologies.
 
 
-## **Architecture design decisions or tactics used**
+## **Architecture design decisions and tactics used**
 
  **1. Design Decisions**
 
