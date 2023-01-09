@@ -132,7 +132,7 @@
         </tr>
          <tr>
             <td>FR10</td>
-            <td>The system shall allow the user to book an appoitment from the selected available timeslot.</td>
+            <td>The system shall allow the user to book an appointment from the selected available timeslot.</td>
             <td>
                 <ul>
                     <li>
@@ -144,16 +144,6 @@
                 <ul>
                     <li>
                        The user should be able to click a button to check the availability of the timeslot
-                    </li>
-                </ul>
-                <ul>
-                    <li>
-                       The user should be able to click a button to check the availability of the timeslot
-                    </li>
-                </ul>
-                <ul>
-                    <li>
-                       The user should be able to click a button to book an available timeslot. 
                     </li>
                 </ul>
                 <ul>
@@ -205,6 +195,7 @@
                     </li>
                 </ul>
                 </td>
+                </tr>
             <td>FR13</td>
             <td>The system should allow users to view their upcoming appointmets.</td>
             <td>
